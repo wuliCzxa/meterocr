@@ -1,0 +1,8 @@
+train: miu3
+val: miu.val
+
+# Classes
+nc: 1
+names: ['miu']
+
+

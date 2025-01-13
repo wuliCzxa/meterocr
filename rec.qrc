@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>jpeg/background.jpg</file>
+        <file>jpeg/login.jpg</file>
+        <file>jpeg/tuichu.jpg</file>
+        <file>jpeg/zuixiaohua.jpg</file>
+        <file>jpeg/background_1.jpg</file>
+    </qresource>
+</RCC>

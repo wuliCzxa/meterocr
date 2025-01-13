@@ -1,0 +1,8 @@
+train: oumiga
+val: oumiga
+
+# Classes
+nc: 1
+names: ['oumiga']
+
+
